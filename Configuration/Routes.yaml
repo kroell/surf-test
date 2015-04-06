@@ -1,0 +1,12 @@
+#                                                                        #
+# Default routes configuration for the Welcome package                   #
+#                                                                        #
+
+-
+  name: 'Welcome screen'
+  uriPattern: 'index'
+  defaults:
+    '@package':    'SoerenKroell.Acme'
+    '@controller': 'Standard'
+    '@action':     'index'
+    '@format':     'html'
