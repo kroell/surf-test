@@ -1,8 +1,15 @@
 {
     "name": "soerenkroell/acme",
-    "version": "1.0.0",
     "type": "typo3-flow-package",
-    "description": "Nur ein Test",
+    "description": "Nur ein Composer Testpaket",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Soeren Kroell",
+            "homepage": "http://www.soerenkroell.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "typo3/flow": "*"
     },
