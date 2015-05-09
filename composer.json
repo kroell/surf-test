@@ -1,5 +1,11 @@
 {
     "name": "soerenkroell/acme",
+    "authors": [
+        {
+            "name": "Soeren Kroell",
+            "email": "hallo@soerenkroell.com"
+        }
+    ],
     "type": "typo3-flow-package",
     "description": "Nur ein Test",
     "require": {
