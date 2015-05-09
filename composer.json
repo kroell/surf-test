@@ -1,7 +1,7 @@
 {
     "name": "soerenkroell/acme",
     "type": "typo3-flow-package",
-    "description": "Add description here",
+    "description": "Nur ein Test",
     "require": {
         "typo3/flow": "*"
     },
